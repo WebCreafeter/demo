@@ -1,0 +1,3 @@
+C# is a Type safe
+ex. int number = "Hello World" //type casting is not possiable
+use pascal case for define new variable
